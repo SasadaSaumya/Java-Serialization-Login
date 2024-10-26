@@ -53,4 +53,4 @@ The application UI is created using Java Swing, with **FlatLaf** providing a dar
 
 2. Set up the Database: Configure your MySQL database with a table for users.
 3. Configure Database Connection: Adjust the MySQL model class to include your database connection details.
-4. 
+
